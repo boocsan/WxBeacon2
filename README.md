@@ -2,6 +2,7 @@
 # WxBeacon2
 
 Get Environment Data from WxBeacon2(OMRON 2JCIE-BL01), output to InfluxDB.
+(Output data is an average of the past 60 seconds.)
 
 ## Installation
 
